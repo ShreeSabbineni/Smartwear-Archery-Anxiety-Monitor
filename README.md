@@ -2,7 +2,7 @@
 ### Multi-Sensor Wearable for Real-Time Performance Anxiety Monitoring
 
 <p align="center">
-  <img src="images/prototype.png" width="700">
+  <img src="images/prototype.PNG" width="700">
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ Unlike traditional fitness wearables that prioritize long-term health tracking, 
 # System Architecture
 
 <p align="center">
-<img src="images/system_architecture.jpg" width="900">
+<img src="images/system-architecture.jpg" width="900">
 </p>
 
 The SmartWear system continuously gathers physiological data from multiple biosensors. Sensor readings are processed on the M5 Stamp C3 before being displayed locally and transmitted via Bluetooth to an external computer for monitoring.
@@ -72,7 +72,7 @@ The SmartWear system continuously gathers physiological data from multiple biose
 ## MAX30102 Pulse & SpO₂ Sensor
 
 <p align="center">
-<img src="images/max30102_sensor.jpg" width="350">
+<img src="images/max30102.jpg" width="350">
 </p>
 
 Measures:
@@ -86,7 +86,7 @@ Measures:
 ## M5 Stamp C3 Microcontroller
 
 <p align="center">
-<img src="images/m5_stamp_c3.jpg" width="300">
+<img src="images/m5-stamp-c3.jpg" width="300">
 </p>
 
 Responsibilities:
@@ -102,7 +102,7 @@ Responsibilities:
 ## Hardware Prototype
 
 <p align="center">
-<img src="images/prototype.png" width="500">
+<img src="images/prototype.PNG" width="500">
 </p>
 
 ---
@@ -153,10 +153,10 @@ SmartWear/
 ├── SmartWear_Firmware.ino
 │
 ├── images/
-│   ├── prototype.png
-│   ├── system_architecture.jpg
-│   ├── max30102_sensor.jpg
-│   ├── m5_stamp_c3.jpg
+│   ├── prototype.PNG
+│   ├── system-architecture.jpg
+│   ├── max30102.jpg
+│   ├── m5-stamp-c3.jpg
 │   └── demo.gif
 │
 ├── README.md
@@ -225,10 +225,10 @@ Planned improvements include:
 
 # Images Used
 
-- `images/system_architecture.jpg` – Overall system architecture
-- `images/max30102_sensor.jpg` – MAX30102 sensor module
-- `images/m5_stamp_c3.jpg` – M5 Stamp C3 microcontroller
-- `images/prototype.png` – Completed hardware prototype
+- `images/system-architecture.jpg` – Overall system architecture
+- `images/max30102.jpg` – MAX30102 sensor module
+- `images/m5-stamp-c3.jpg` – M5 Stamp C3 microcontroller
+- `images/prototype.PNG` – Completed hardware prototype
 - `images/demo.gif` *(optional)* – Live demonstration of the device
 
 ---
