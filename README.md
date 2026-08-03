@@ -86,7 +86,7 @@ Measures:
 ## M5 Stamp C3 Microcontroller
 
 <p align="center">
-<img src="images/m5-stamp-c3.jpg" width="300">
+<img src="images/m5-stampc3.jpg" width="300">
 </p>
 
 Responsibilities:
@@ -156,7 +156,7 @@ SmartWear/
 │   ├── prototype.PNG
 │   ├── system-architecture.jpg
 │   ├── max30102.jpg
-│   ├── m5-stamp-c3.jpg
+│   ├── m5-stampc3.jpg
 │   └── demo.gif
 │
 ├── README.md
@@ -227,7 +227,7 @@ Planned improvements include:
 
 - `images/system-architecture.jpg` – Overall system architecture
 - `images/max30102.jpg` – MAX30102 sensor module
-- `images/m5-stamp-c3.jpg` – M5 Stamp C3 microcontroller
+- `images/m5-stampc3.jpg` – M5 Stamp C3 microcontroller
 - `images/prototype.PNG` – Completed hardware prototype
 - `images/demo.gif` *(optional)* – Live demonstration of the device
 
