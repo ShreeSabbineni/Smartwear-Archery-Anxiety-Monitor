@@ -82,7 +82,38 @@ Measures:
 - Heart Rate Variability (HRV)
 
 ---
+## GSR Sensor
 
+<p align="center">
+<img src="images/gsr-sensor.jpg" width="350">
+</p>
+
+The Galvanic Skin Response (GSR) sensor measures changes in skin conductance caused by sweat gland activity. Since electrodermal activity increases with sympathetic nervous system activation, GSR provides a reliable indicator of physiological arousal and stress.
+
+**Measures**
+- Skin conductance
+- Electrodermal activity (EDA)
+- Physiological arousal
+
+---
+
+## MPU6050 Accelerometer & Gyroscope
+
+<p align="center">
+<img src="images/mpu6050.png" width="350">
+</p>
+
+The MPU6050 combines a three-axis accelerometer and three-axis gyroscope to detect movement and tremors. It enables the system to monitor subtle motion that may indicate increased physiological stress.
+
+**Measures**
+- Linear acceleration
+- Angular velocity
+- Motion
+- Tremor
+
+---
+
+  
 ## M5 Stamp C3 Microcontroller
 
 <p align="center">
