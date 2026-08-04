@@ -55,7 +55,23 @@ Unlike traditional fitness wearables that prioritize long-term health tracking, 
 | OLED Display | Displays live sensor readings |
 | LiPo Battery | Portable power supply |
 
----
+# Hardware Interconnect Diagram
+
+<p align="center">
+<img src="images/smartwear-interconnect-diagram.jpg" width="900">
+</p>
+
+The hardware interconnect diagram illustrates the physical connections between the SmartWear components. The M5 Stamp C3 serves as the central processing unit, communicating with each sensor through I²C and analog interfaces.
+
+Sensor connections include:
+
+- **MAX30102** → I²C communication with M5 Stamp C3 for heart rate and SpO₂ monitoring
+- **MPU6050** → I²C communication for motion and tremor detection
+- **OLED Display** → I²C communication for real-time visualization
+- **GSR Sensor** → Analog input for electrodermal activity measurement
+- **SEN-10245 Respiration Sensor** → Analog input for respiration monitoring
+
+This wiring layout enables synchronized collection of multiple physiological signals in a compact wearable form factor.
 
 # System Architecture
 
