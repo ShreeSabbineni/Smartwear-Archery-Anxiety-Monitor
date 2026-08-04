@@ -267,40 +267,6 @@ Planned improvements include:
 
 ---
 
-# Images Used
-
-- `images/system-architecture.jpg` – Overall system architecture
-- `images/max30102.jpg` – MAX30102 sensor module
-- `images/m5-stampc3.jpg` – M5 Stamp C3 microcontroller
-- `images/prototype.PNG` – Completed hardware prototype
-- `images/demo.gif` *(optional)* – Live demonstration of the device
-
----
-
-# Demo
-
-Once uploaded to GitHub, replace this section with your project video or GIF.
-
-Example:
-
-```markdown
-## Demo
-
-https://github.com/user-attachments/assets/xxxxxxxx
-```
-
-or
-
-```markdown
-<p align="center">
-<img src="images/demo.gif" width="700">
-</p>
-```
-
-A short 20–45 second demo showing the OLED updating with live sensor values and Bluetooth communication will make the repository much more engaging for recruiters.
-
----
-
 # License
 
 This project is licensed under the MIT License.
