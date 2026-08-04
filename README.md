@@ -35,7 +35,6 @@ Unlike traditional fitness wearables that prioritize long-term health tracking, 
 - ❤️ Heart Rate & Blood Oxygen (SpO₂) sensing
 - ✋ Galvanic Skin Response (GSR) monitoring
 - 🏹 Motion and tremor detection using an IMU
-- 🌬️ Respiration monitoring
 - 📟 Live OLED display
 - 📶 Bluetooth communication
 - 🔋 Portable battery-powered embedded device
