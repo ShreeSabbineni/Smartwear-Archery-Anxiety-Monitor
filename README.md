@@ -2,7 +2,7 @@
 ### Multi-Sensor Wearable for Real-Time Performance Anxiety Monitoring
 
 <p align="center">
-  <img src="images/prototype.PNG" width="700">
+  <img src="images/prototype.PNG" width="500">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ A wearable embedded system that monitors physiological indicators associated wit
 
 🎥 **Project Demo**
 
-*Replace this with your GitHub video or GIF once uploaded.*
+<img src="images/smartwear-demo.gif" width="700">
 
 </p>
 
