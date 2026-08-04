@@ -51,7 +51,6 @@ Unlike traditional fitness wearables that prioritize long-term health tracking, 
 | MAX30102 | Heart Rate & SpO₂ Sensor |
 | GSR Sensor | Measures skin conductance |
 | MPU6050 | Accelerometer & Gyroscope |
-| SEN-10245 | Respiration Sensor |
 | OLED Display | Displays live sensor readings |
 | LiPo Battery | Portable power supply |
 
@@ -69,7 +68,6 @@ Sensor connections include:
 - **MPU6050** → I²C communication for motion and tremor detection
 - **OLED Display** → I²C communication for real-time visualization
 - **GSR Sensor** → Analog input for electrodermal activity measurement
-- **SEN-10245 Respiration Sensor** → Analog input for respiration monitoring
 
 This wiring layout enables synchronized collection of multiple physiological signals in a compact wearable form factor.
 
@@ -164,7 +162,6 @@ MAX30102 ──────┤
                │
 MPU6050 ───────┤
                │
-SEN-10245 ─────┤
                │
                ▼
         M5 Stamp C3
